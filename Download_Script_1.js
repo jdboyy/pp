@@ -102,3 +102,4 @@ Created on Tue Sep 4 12: 53: 35 2020
             generatePDF_DataFile();
         }, 1500)
     }
+https://catalogue.pearsoned.ca/educator/product/Revel-for-Social-Psychology-Seventh-Canadian-Edition-Access-Card/9780135498613.page#downlaoddiv
